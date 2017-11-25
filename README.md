@@ -21,3 +21,11 @@ Click [here](https://github.com/ajai-sandy/simpleCallbacksWithReact/releases) th
 > npm install
 > npm start
 ```
+
+#### For the application to work
+
+Replace with an actual youtube API key in index.js file.
+
+```
+API_KEY = 'XXXXXXX-XXXXXXX-XXXXXXX'
+```
